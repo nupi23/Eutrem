@@ -44,3 +44,4 @@ async def MMDC(ctx):
     with open(f'Memesd/{mds}', 'rb') as f:
         picture = discord.File(f)
     await ctx.send(file = picture)
+    bot.run("MTM0MDY5ODY0NTc0MTMwNTkyNg.GNOpfP.cDVk1h_hfYe-Dtwwng8I1IEgGxc3Q1kbVeykEc")
